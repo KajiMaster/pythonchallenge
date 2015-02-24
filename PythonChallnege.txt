@@ -1,0 +1,11 @@
+#1 2^38
+
+274877906944
+
+#2 apply to the url - map is translated to ocr
+
+ocr
+
+#3
+
+equality
